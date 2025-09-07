@@ -88,7 +88,9 @@ expense-tracker/
 These must be configured in .env:
 
 SECRET_KEY=your_secret_key_here
+
 DB_USER=your_db_username
+
 DB_PASSWORD=your_db_password
 
 ---
