@@ -29,6 +29,7 @@ Users can register, log in, add expenses, view them in a dashboard, and manage t
 git clone https://github.com/shivam-1403/expense-tracker
 cd expense-tracker
 
+```
 
 ### 2. Create Virtual Environment
 python -m venv env
