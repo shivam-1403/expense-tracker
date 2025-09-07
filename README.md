@@ -65,13 +65,21 @@ Open http://localhost:8000 in your browser.
 
 # 📂 Project Structure
 expense-tracker/
+
 │── expensetracker/       # Main project settings
+
 │── tracker/              # Expense app (models, views, templates)
+
 │── templates/            # HTML templates
+
 │── static/               # CSS/JS
+
 │── .env                  # Environment variables (ignored in Git)
+
 │── requirements.txt      # Project dependencies
+
 │── manage.py             # Django entry point
+
 
 ---
 
